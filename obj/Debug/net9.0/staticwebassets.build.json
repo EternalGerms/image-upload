@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "M9pdA8V6YbJ1tU5q/TC20Alzy5pBFK/mVlE6nNYH6Hk=",
+  "Source": "ImageUploadService",
+  "BasePath": "_content/ImageUploadService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
